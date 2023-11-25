@@ -1,6 +1,6 @@
 # The-coffee-machine
 
-# The program required to provide a quarter, dime, nickles, and pennies of the American coins.
+The program required to provide a quarter, dime, nickles, and pennies of the American coins.
 
 # If you provide enough the machine will pour the desired hot beverage.
 
